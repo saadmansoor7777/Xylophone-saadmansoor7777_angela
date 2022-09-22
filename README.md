@@ -8,9 +8,15 @@ https://user-images.githubusercontent.com/56724559/191562063-13e3754a-e257-4672-
 
 
 
-## ----------||||||||||----------
+## ------------------
 ## Angela Yu said:
 A new Flutter project.
+
+
+## ------------------
+## link to Angela's project:
+https://github.com/londonappbrewery/Xylophone-Flutter-Completed
+## ------------------
 
 ## Getting Started
 
@@ -25,11 +31,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-
---------
-## link to Angela's project:
-
-https://github.com/londonappbrewery/Xylophone-Flutter-Completed
 
 Xylophone 🎹
 Our Goal
